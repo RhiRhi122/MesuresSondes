@@ -1,0 +1,65 @@
+{
+  "TX-xxx": {
+    "type": "Cernox",
+    "valeur_cible": 41,
+    "ecart_acceptable": 9
+  },
+  "TP-xxx": {
+    "type": "PT100",
+    "valeur_cible": 108,
+    "ecart_acceptable": 20
+  },
+  "FG-xxx_WFb": {
+    "type": "Fluxgate_WFb",
+    "valeur_cible": 55,
+    "ecart_acceptable": 10
+  },
+  "FG-xxx_WEx": {
+    "type": "Fluxgate_WEx",
+    "valeur_cible": 21,
+    "ecart_acceptable": 4
+  },
+  "STM-xxx_W1": {
+    "type": "Stepper_W1",
+    "valeur_cible": 1,
+    "ecart_acceptable": 1
+  },
+  "STM-xxx_W2": {
+    "type": "Stepper_W2",
+    "valeur_cible": 1,
+    "ecart_acceptable": 1
+  },
+  "PZ-xxx_C": {
+    "type": "Piezo_C",
+    "valeur_cible": 5.5,
+    "ecart_acceptable": 1
+  },
+  "PZ-xxx_ESR": {
+    "type": "Piezo_ESR",
+    "valeur_cible": 10,
+    "ecart_acceptable": 1
+  },
+  "HTR-xxx": {
+    "type": "Chaufferette",
+    "valeur_cible": 40,
+    "ecart_acceptable": 20
+  },
+  "HTR-xxx_TC": {
+    "type": "ThermoCouple",
+    "valeur_cible": 3,
+    "ecart_acceptable": 20
+  },
+  "LT-xxx": {
+    "type": "Jauge de niveau",
+    "valeur_cible": 300,
+    "ecart_acceptable": 100
+  },
+  "TLS-xxx": {
+    "type": "Limit Switch",
+    "valeur_cible": 1000000,
+    "ecart_acceptable": 0
+  },
+  "isolement": {
+      "seuil_ok": 1.0
+  }
+}

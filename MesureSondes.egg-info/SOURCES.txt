@@ -1,0 +1,5 @@
+setup.py
+MesureSondes.egg-info/PKG-INFO
+MesureSondes.egg-info/SOURCES.txt
+MesureSondes.egg-info/dependency_links.txt
+MesureSondes.egg-info/top_level.txt
